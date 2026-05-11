@@ -4,7 +4,8 @@
 https://github.com/Kuldeep594/ai-fellows-evaluation
 
 ## 2. Live Endpoint URL
-https://Kuldeep594.github.io/ai-fellows-evaluation/
+[https://Kuldeep594.github.io/ai-fellows-evaluation/](https://github.com/Kuldeep594/ai-fellows-evaluation/blob/main/LLM%20Evaluation%20Report%20%E2%80%93%20Llama%203.2%203B.pdf
+)
 
 *(If the endpoint is not yet live, open the report locally: `cd docs && python -m http.server 8080`, then visit http://localhost:8080)*
 
