@@ -3,7 +3,7 @@ markdown
 # AI Fellows India – Technical Assignment Submission
 
 ## 1. Repository URL
-https://github.com/YOUR_USERNAME/ai-fellows-evaluation   ← replace with your actual URL
+https://github.com/Kuldeep594/ai-fellows-evaluation  ← replace with your actual URL
 
 ## 2. Live Endpoint URL
 https://YOUR_USERNAME.github.io/ai-fellows-evaluation/   ← replace (GitHub Pages from /docs)
