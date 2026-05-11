@@ -6,7 +6,8 @@ markdown
 https://github.com/Kuldeep594/ai-fellows-evaluation  ← replace with your actual URL
 
 ## 2. Live Endpoint URL
-https://YOUR_USERNAME.github.io/ai-fellows-evaluation/   ← replace (GitHub Pages from /docs)
+https://Kuldeep594.github.io/ai-fellows-evaluation/
+
 
 *If the endpoint is not yet live, open the report locally:*
 ```bash
