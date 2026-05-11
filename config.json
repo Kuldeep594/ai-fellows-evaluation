@@ -1,0 +1,6 @@
+{
+    "application_name": "llama3.2:3b",
+    "application_type": "API",
+    "agent_name": "llama3.2:3b",
+    "application_url": "http://localhost:11434"
+}

@@ -1,0 +1,12 @@
+{
+    "db": {
+        "engine": "sqlite",
+        "file": "AIEvaluationData.db"
+    },
+    "target": {
+        "application_type": "API",
+        "application_name": "llama3.2:3b",
+        "application_url": "http://localhost:11434",
+        "agent_name": "llama3.2:3b"
+    }
+}
