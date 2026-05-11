@@ -1,6 +1,4 @@
-Create this in the repository root:
 
-markdown
 # CeRAI AI Evaluation – Option A
 
 This repository contains my submission for the AI Fellows India technical assignment. I evaluated the **Llama 3.2 3B** conversational model using a workflow that combines the CeRAI AI Evaluation Tool (for test data management) and direct API calls (to work around an unresolved executor issue).
